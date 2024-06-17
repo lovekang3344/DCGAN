@@ -30,6 +30,7 @@ _生成手写体数字识别_ 就是`GAN`原论文里面的相关试验内容，
 **从名字上看，我们就知道名称为对抗，所以loss存在一个波动的样子，但是整体是一个下降趋势。**
 
 <h3 id="1.1">效果</h3>
+
 ![mn.gif](./checkpoints/MNIST/mn.gif)
 
 ## CIFAR10
@@ -43,4 +44,5 @@ _生成手写体数字识别_ 就是`GAN`原论文里面的相关试验内容，
 ![G&D_losses.png](./checkpoints/CIFAR10/G&D_losses.png)
 
 <h3 id="1.2">效果</h3>
+
 ![cf.gif](./checkpoints/CIFAR10/cf.gif)
