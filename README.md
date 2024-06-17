@@ -31,7 +31,9 @@ _生成手写体数字识别_ 就是`GAN`原论文里面的相关试验内容，
 
 <h3 id="1.1">效果</h3>
 
-![mn.gif](./checkpoints/MNIST/mn.gif)
+<div align='center'>
+  <img src="./checkpoints/MNIST/mn.gif"></img>
+</div>
 
 ## CIFAR10
 `CIFAR10`数据集不同于前面的`MNIST`数据集，它不再是一个灰度图，而是具有*3*通道的*RGB*。
@@ -45,4 +47,7 @@ _生成手写体数字识别_ 就是`GAN`原论文里面的相关试验内容，
 
 <h3 id="1.2">效果</h3>
 
-![cf.gif](./checkpoints/CIFAR10/cf.gif)
+
+<div align='center'>
+  <img src="./checkpoints/CIFAR10/cf.gif"></img>
+</div>
