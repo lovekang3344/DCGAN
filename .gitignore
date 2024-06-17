@@ -1,0 +1,5 @@
+.idea/
+*.zip
+*.rar
+.ipynb_checkpoints/
+~$*
